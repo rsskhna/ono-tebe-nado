@@ -1,0 +1,17 @@
+.cover__description {
+    width: 100%;
+    max-width: 968px;
+    min-height: 52px;
+
+    position: absolute;
+    right: 50px;
+    bottom: 50px;
+
+    display: flex;
+    align-self: flex-end;
+    justify-content: space-between;
+    align-items: center;
+    gap: 78px;
+
+    color: #fff;
+}

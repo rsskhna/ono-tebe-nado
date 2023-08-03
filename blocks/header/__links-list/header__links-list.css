@@ -1,0 +1,6 @@
+.header__links-list {
+    display: flex;
+    gap: 28px;
+
+    list-style-type: circle;
+}

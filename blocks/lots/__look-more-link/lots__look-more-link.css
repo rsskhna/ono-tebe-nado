@@ -1,0 +1,12 @@
+.lots__look-more-link {
+    width: 100%;
+    max-width: 192px;
+
+    display: block;
+
+    font-size: 20px;
+    font-weight: 400;
+    line-height: normal;
+
+    margin: 30px 0 0 40px;
+}

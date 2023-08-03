@@ -1,0 +1,11 @@
+.lots__heading {
+    width: 100%;
+    max-width: 121px;
+
+    font-size: 40px;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+
+    margin: 0 0 27px 40px;
+}

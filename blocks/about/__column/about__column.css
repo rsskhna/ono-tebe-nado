@@ -1,0 +1,8 @@
+.about__column {
+    width: 100%;
+
+    display: grid;
+    grid-template-columns: 430px auto;
+    grid-template-rows: 240px auto;
+    column-gap: 25px;
+}

@@ -1,0 +1,11 @@
+.about__title {
+    width: 100%;
+    max-width: 291px;
+
+    font-size: 40px;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+
+    align-self: center;
+}

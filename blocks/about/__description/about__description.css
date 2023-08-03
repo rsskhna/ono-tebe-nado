@@ -1,0 +1,11 @@
+.about__description {
+    width: 100%;
+    max-width: 885px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    grid-column: 2;
+
+    margin-top: 8px;
+}

@@ -1,0 +1,6 @@
+.card_type_film {
+    background-image: url("../../../../images/card-lot-01.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}

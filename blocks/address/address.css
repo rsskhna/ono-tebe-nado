@@ -1,0 +1,12 @@
+.address {
+    width: 100%;
+    max-width: 240px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.35;
+}
